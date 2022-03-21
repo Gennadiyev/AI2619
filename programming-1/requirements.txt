@@ -1,0 +1,5 @@
+numpy >= 1.8.0
+matplotlib
+PIL >= 8.2.0
+scipy >= 0.17.0
+scikit-image >= 0.13.0
