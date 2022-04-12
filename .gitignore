@@ -1,2 +1,7 @@
 .vscode*
 tmp*
+*.ipynb_checkpoints*
+programming-4/audio/*
+!programming-4/audio/source.wav
+programming-4/images
+programming-4/results
