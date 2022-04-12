@@ -1,6 +1,6 @@
 # Python Alternatives for AI2619 Course Assignments
 
-![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) \| ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg) \| ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) \| ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 My submissions for programming assignments in SJTU AI2619 course. We should be using MATLAB, but I prefer to go open-source.
 
@@ -40,10 +40,10 @@ This assignment is all about audio processing. We start from Short-time Fourier 
 
 The assignments are designed to be individual work. If you have any questions regarding my previous submissions (i.e. assignments that have already passed the deadline), please feel free to [submit an issue](https://github.com/Gennadiyev/AI2619/issues). Otherwise you're strongly advised to finish your own work before copying :+1:
 
-Best of luck and have fun!
+Best of luck and have fun touring around here!
 
 ## Special Thanks
 
-The TAs are nice people! They helped me a lot with the assignments, and allowed me to ignore the 2-page-limit on the PDF submissions. Salute to their hard work!
+The **TAs** are nice people! They helped me a lot with the assignments, and allowed me to ignore the 2-page-limit on the PDF submissions. Salute to their hard work!
 
-Yuye Ling is easily one of the most reliable and responsible teachers I've met in SJTU. He teaches intuitively, and pongs my ping in ~10 minutes (by e-mail), which is an incredible reflex :zap:! **LOTS** of thanks to him!
+**Yuye Ling** is easily one of the most reliable and responsible teachers I've met in SJTU. He teaches intuitively, and pongs my ping in ~10 minutes (by e-mail), which is an incredible reflex :zap:! **LOTS** of thanks to him!
