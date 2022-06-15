@@ -1,4 +1,4 @@
-# AI2619 Programming #2
+# AI2619 Programming Assignment \#2
 
 *Author: Kunologist*
 
