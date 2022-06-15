@@ -4,7 +4,7 @@
 
 This assignment is mainly about image processing.
 
-![image target](programming-5/images/src.png)
+![image target](images/src.png)
 
 ## Entry
 
