@@ -1,4 +1,4 @@
-# Python Alternatives for AI2619 Course Assignments
+# Python Alternatives to AI2619 Course Assignments
 
 ![](https://img.shields.io/badge/Made%20with-Jupyter-orange)  ![](https://img.shields.io/badge/Maintained%3F-no-green.svg)
 
