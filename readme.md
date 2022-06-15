@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Made%20with-Jupyter-orange)  ![](https://img.shields.io/badge/Maintained%3F-no-green.svg)
 
-*Professor: Yuye Ling*
+*Professor: [Yuye Ling](http://www.yuyeling.com/)*
 
 My submissions for programming assignments in SJTU AI2619 course. We should be using MATLAB, but I prefer to use a more open-source toolchain. ~~Look MATLAB, we can do everything without you.~~
 
